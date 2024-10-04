@@ -4,6 +4,9 @@
 
 - <b>C# (.NET Desktop Applications)</b>
 
+- <b>Android Mobile Applications</b>
+  - [Chef It Up App](https://github.com/tahay729/ChefItUpApp)
+
 <h2> 📃 Certifications</h2>
 
 <h2> 🤳 Connect with me:</h2>
