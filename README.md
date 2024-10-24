@@ -8,7 +8,7 @@
   - [Chef It Up App](https://github.com/tahay729/ChefItUpApp)
 
 <h2> 📃 Certifications</h2>
-- <b>AWS Certified Solutions Architect - In Progress</b>
+- <b>AWS Certified Solutions Architect - ZTM</b>
 
 <h2> 🤳 Connect with me:</h2>
 
