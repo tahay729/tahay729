@@ -1,6 +1,6 @@
 <h1>Hey there, I'm Taha! <br/><a href="https://github.com/tahay729">Programmer</a> and <a href="https://www.linkedin.com/in/taha-yousuf/">Software Developer Professional</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development Projects</h2>
 
 - <b>C# (.NET Desktop Applications)</b>
   - [Auction App](https://github.com/tahay729/AuctionApp)
@@ -8,6 +8,8 @@
   - [Chef It Up App](https://github.com/tahay729/ChefItUpApp)
 
 <h2> 📃 Certifications</h2>
+- <b>C# (.NET Desktop Applications)</b>
+  - [Auction App](https://github.com/tahay729/AuctionApp)
 - <b>AWS Certified Solutions Architect - ZTM</b>
   - [Certification](https://github.com/tahay729/AuctionApp)
 
