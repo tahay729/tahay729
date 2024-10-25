@@ -9,7 +9,7 @@
 
 <h2> 📃 Certifications</h2>
 - <b>AWS Certified Solutions Architect - ZTM</b>
-  - [Certification](https://drive.google.com/file/d/1_Kt0ReQXuNFHAP5N7BeDMSjZ8ucvHnaj/view?usp=sharing)
+  - [Certification](https://github.com/tahay729/AuctionApp)
 
 <h2> 🤳 Connect with me:</h2>
 
