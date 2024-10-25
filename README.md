@@ -8,10 +8,9 @@
   - [Chef It Up App](https://github.com/tahay729/ChefItUpApp)
 
 <h2> 📃 Certifications</h2>
-- <b>C# (.NET Desktop Applications)</b>
-  - [Auction App](https://github.com/tahay729/AuctionApp)
+  
 - <b>AWS Certified Solutions Architect - ZTM</b>
-  - [Certification](https://github.com/tahay729/AuctionApp)
+  - [Certification](https://drive.google.com/file/d/1_Kt0ReQXuNFHAP5N7BeDMSjZ8ucvHnaj/view?usp=sharing)
 
 <h2> 🤳 Connect with me:</h2>
 
